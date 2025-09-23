@@ -4,7 +4,7 @@ def main():
     print("Python main function")
 
     # Carregar a imagem em escala de cinza
-    image = cv2.imread("im.png", cv2.IMREAD_COLOR)
+    image = cv2.imread("Aula_1/Images/im.png", cv2.IMREAD_COLOR)
 
     # Verificar se a imagem foi carregada
     if image is None:
