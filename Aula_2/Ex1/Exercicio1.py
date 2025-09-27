@@ -10,7 +10,7 @@ def main():
     print("python main function")
 
     # Reading the image from disk
-    original_image = cv2.imread('Aula_2/Images/lake.png', cv2.IMREAD_COLOR)
+    original_image = cv2.imread('Aula_2\Ex1\lake.png', cv2.IMREAD_COLOR)
     if original_image is None:
         print("Erro: imagem não encontrada!")
         return

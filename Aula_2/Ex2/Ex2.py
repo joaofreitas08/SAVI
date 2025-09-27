@@ -2,7 +2,7 @@
 # shebang line for linux / mac
 
 #-----------------------
-#n consegui passar as imagens para png
+#não consegui passar as imagens para png
 #incompleto nas imagens
 #-----------------------------
 
